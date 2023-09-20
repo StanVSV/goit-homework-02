@@ -117,21 +117,18 @@ font-size: 16px;
 color: #2e2f42;
 text-align: center;
 font-size: 36px;
-letter-spacing: 0.02em; 
 text-transform: capitalize;
-background-color: #FFF;
+background-color: #fff;
 }
 
 .portfolio-subtitle {
 color: #2e2f42;
 font-size: 20px;
-letter-spacing: 0.02em;
 }
 
 .portfolio-direction {
 color: #434455;
 font-size: 16px;
-letter-spacing: 0.02em;
 }
 
 /**=======================================*/
@@ -146,7 +143,6 @@ background-color: #2E2F42;
 color: #4d5ae5;
 font-family: Raleway, sans-serif;
 font-size: 18px;
-letter-spacing: 0.03em; 
 text-transform: uppercase;
 }
 
@@ -154,14 +150,12 @@ text-transform: uppercase;
 color: var(--CLOUD, #F4F4FD);
 font-family: Raleway, sans-serif;
 font-size: 18px;
-letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
 .footer-information {
 color: #f4f4Fd;
 font-size: 16px;
-letter-spacing: 0.02em;
 }
 
 /**=======================================*/

@@ -17,7 +17,7 @@ a {
 }
 
 .nav-link-logo-blue {
-color; #4d5ae5;
+color: var(--IRIS, #4D5AE5);
 }
 
 .nav-link-logo {

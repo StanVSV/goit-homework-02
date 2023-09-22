@@ -139,6 +139,10 @@ background-color: #404BBF;
     background: #f4f4fd;
 }
 
+.team-list {
+    background-color: #ffffff;
+}
+
 .team-title {
     color: #2e2f42;
     text-align: center;
@@ -146,10 +150,6 @@ background-color: #404BBF;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-}
-
-.team-list {
-    background-color: #ffffff;
 }
 
 .team-subtitle {
@@ -185,8 +185,8 @@ background-color: #404BBF;
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-direction {

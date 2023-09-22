@@ -117,13 +117,18 @@ background-color: #404BBF;
 }
 
 .features-subtitle {
-color: #2e2f42;
-font-size: 20px;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .features-item-tex { 
-color: #434455;
-font-size: 16px;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /**=======================================*/
@@ -131,22 +136,35 @@ font-size: 16px;
 /**================SECTION================*/
 
 .our-team {
-background: #f4f4fd;
+    background: #f4f4fd;
 }
+
 .team-title {
-color: #2e2f42;
-text-align: center;
-text-transform: capitalize;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.team-list {
+    background-color: #ffffff;
 }
 
 .team-subtitle {
-color: #2e2f42;
-font-size: 20px;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .profession {
-color: #434455;
-font-size: 16px;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /**=======================================*/
@@ -154,21 +172,26 @@ font-size: 16px;
 /**================SECTION================*/
 
 .portfolio-title {
-color: #2e2f42;
-text-align: center;
-font-size: 36px;
-text-transform: capitalize;
-background-color: #fff;
+    color: #2e2f42;
+    text-align: center;
+    font-size: 36px;
+    text-transform: capitalize;
+    background-color: #fff;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-subtitle {
-color: #2e2f42;
-font-size: 20px;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02;
 }
 
 .portfolio-direction {
-color: #434455;
-font-size: 16px;
+    color: #434455;
+    font-size: 16px;
 }
 
 /**=======================================*/
@@ -176,26 +199,32 @@ font-size: 16px;
 /**================SECTION================*/
 
 .footer {
-background-color: #2E2F42;
-}
-
-.footer-logo {
-color: #4d5ae5;
-font-family: Raleway, sans-serif;
-font-size: 18px;
-text-transform: uppercase;
+    background-color: #2E2F42;
 }
 
 .footer-logo-link {
-color: var(--CLOUD, #F4F4FD);
-font-family: Raleway, sans-serif;
-font-size: 18px;
-text-transform: uppercase;
+    color:#4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+span {
+    color: #2e2f42;
+}
+
+.footer-logo {
+    color:#f4f4fd;
 }
 
 .footer-information {
-color: #f4f4Fd;
-font-size: 16px;
+    color: #f4f4Fd;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /**=======================================*/

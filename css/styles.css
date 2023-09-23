@@ -99,7 +99,7 @@ color: #404bbf;
 
 /**================SECTION-2================*/
 
-.visually-hidden { 
+/*.visually-hidden { 
     position: absolute;
     width: 1px;
     height: 1px;
@@ -111,6 +111,8 @@ color: #404bbf;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+<h2 class="strategy-title visually-hidden">Strategy</h2>
+*/
 
 .features-section {
     font-style: normal;

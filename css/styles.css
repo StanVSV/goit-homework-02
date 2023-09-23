@@ -99,18 +99,6 @@ color: #404bbf;
 
 /**================SECTION-2================*/
 
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
 
 .features-section {
     font-style: normal;
@@ -134,7 +122,13 @@ color: #404bbf;
 /**=======================================*/
 
 /**================SECTION-3================*/
+.team-item {
+    background-color: #ffffff;
+}
 
+.our-team {
+    background: #f4f4fd;
+}
 
 .team-title {
     color: #2e2f42;
@@ -144,11 +138,6 @@ color: #404bbf;
     line-height: 1.11;
     letter-spacing: 0.02em;
 }
-
-.our-team {
-    background: #f4f4fd;
-}
-
 
 .team-subtitle {
     color: #2e2f42;
@@ -165,10 +154,6 @@ color: #404bbf;
     letter-spacing: 0.02em;
 }
 
-.team-list {
-    background-color: #ffffff;
-}
-
 /**=======================================*/
 
 /**================SECTION-4================*/
@@ -179,7 +164,7 @@ color: #404bbf;
     font-size: 36px;
     text-transform: capitalize;
     background-color: #fff;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
 }
 

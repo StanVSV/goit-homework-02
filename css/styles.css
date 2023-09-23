@@ -65,7 +65,7 @@ span {
 color: #404bbf;
 }
 
-/**================MAIN================*/
+/**================section-1================*/
 
 .hero {
     background-color: #2e2f42;
@@ -97,7 +97,7 @@ color: #404bbf;
 
 /**=======================================*/
 
-/**================SECTION================*/
+/**================SECTION-2================*/
 
 .visually-hidden {
     position: absolute;
@@ -133,15 +133,8 @@ color: #404bbf;
 
 /**=======================================*/
 
-/**================SECTION================*/
+/**================SECTION-3================*/
 
-.our-team {
-    background: #f4f4fd;
-}
-
-.team-list {
-    background-color: #ffffff;
-}
 
 .team-title {
     color: #2e2f42;
@@ -151,6 +144,11 @@ color: #404bbf;
     line-height: 1.11;
     letter-spacing: 0.02em;
 }
+
+.our-team {
+    background: #f4f4fd;
+}
+
 
 .team-subtitle {
     color: #2e2f42;
@@ -167,9 +165,13 @@ color: #404bbf;
     letter-spacing: 0.02em;
 }
 
+.team-list {
+    background-color: #ffffff;
+}
+
 /**=======================================*/
 
-/**================SECTION================*/
+/**================SECTION-4================*/
 
 .portfolio-title {
     color: #2e2f42;
@@ -177,7 +179,7 @@ color: #404bbf;
     font-size: 36px;
     text-transform: capitalize;
     background-color: #fff;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -192,11 +194,12 @@ color: #404bbf;
 .portfolio-direction {
     color: #434455;
     font-size: 16px;
+    letter-spacing: 0.02em;
 }
 
 /**=======================================*/
 
-/**================SECTION================*/
+/**================footer================*/
 
 .footer {
     background-color: #2E2F42;
